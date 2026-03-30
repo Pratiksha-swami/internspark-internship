@@ -19,3 +19,24 @@ Website Traffic Analysis
 
 🔗 Report: https://drive.google.com/file/d/1XuHYK-YdmNvE_jlgKXmTlrIkrP_g25II/view?usp=drive_link
 
+## 🔹 Task 4 - Vendor Performance Analysis
+📌 Objective:  
+Evaluate vendor performance based on sales, profit, and contribution to identify top and low-performing vendors.
+
+📓 Notebook:  
+[Add Task 4 GitHub Link]  
+
+📄 Report / PPT:  
+[Add Google Drive Link]  
+
+📊 Dashboard:  
+[Add Power BI / Screenshot Link]  
+
+---
+
+## 💡 Key Skills Demonstrated
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization (Matplotlib, Seaborn, Power BI)  
+- KPI Calculation  
+- Business Insights & Recommendations  
