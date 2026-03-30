@@ -24,15 +24,14 @@ Website Traffic Analysis
 Evaluate vendor performance based on sales, profit, and contribution to identify top and low-performing vendors.
 
 📓 Notebook:  
-[Add Task 4 GitHub Link]  
+https://github.com/Pratiksha-swami/internspark-internship/blob/main/vendor%20performance%20analysis.ipynb
+
 
 📄 Report / PPT:  
-[Add Google Drive Link]  
+https://docs.google.com/presentation/d/1BLx7LE8f630X9rO2pEqCQsKIRybszJqp/edit?usp=drive_link&ouid=117498129552318545615&rtpof=true&sd=true
 
 📊 Dashboard:  
-[Add Power BI / Screenshot Link]  
-
----
+https://drive.google.com/file/d/1xU7XgMMBicIZNBEYdamYyRgTXH8LZejf/view?usp=drive_link 
 
 ## 💡 Key Skills Demonstrated
 - Data Cleaning & Preprocessing  
